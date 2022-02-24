@@ -589,7 +589,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = KKHXU36BGT;
+				DEVELOPMENT_TEAM = 74MC75RT69;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LJGifDemo/Tools/HeaderFiler/PrefixHeader.pch";
 				INFOPLIST_FILE = LJGifDemo/Info.plist;
@@ -607,7 +607,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = KKHXU36BGT;
+				DEVELOPMENT_TEAM = 74MC75RT69;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LJGifDemo/Tools/HeaderFiler/PrefixHeader.pch";
 				INFOPLIST_FILE = LJGifDemo/Info.plist;
